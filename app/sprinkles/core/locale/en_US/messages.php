@@ -114,7 +114,7 @@ return [
     "OPTIONAL" => "Optional",
 
     // Misc.
-    "BUILT_WITH_UF" => "Built with <a href=\"http://www.userfrosting.com\">UserFrosting</a>",
-    "ADMINLTE_THEME_BY" => "Theme by <strong><a href=\"http://almsaeedstudio.com\">Almsaeed Studio</a>.</strong> All rights reserved",
+    "BUILT_WITH_UF" => "Built in 2017",
+    "ADMINLTE_THEME_BY" => "All rights reserved",
     "WELCOME_TO" => "Welcome to {{title}}!"
 ];

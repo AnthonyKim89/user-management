@@ -148,7 +148,7 @@
                 // This can be a comma-separated list, to load multiple fallback locales
                 'default' => 'en_US'
             ],
-            'title'     =>      'UserFrosting',
+            'title'     =>      'MoF',
             // URLs
             'uri' => [
                 'base' => [

@@ -5,7 +5,7 @@
  *
  * US English message token translations for the error pages
  *
- * @package UserFrosting
+ * @package MoF
  * @link http://www.userfrosting.com/components/#i18n
  * @author Alexander Weissman
  */
@@ -28,8 +28,8 @@ return [
         ],
 
         "CONFIG" => [
-            "TITLE" => "UserFrosting Configuration Issue!",
-            "DESCRIPTION" => "Some UserFrosting configuration requirements have not been met.",
+            "TITLE" => "MoF Configuration Issue!",
+            "DESCRIPTION" => "Some MoF configuration requirements have not been met.",
             "DETAIL" => "Something's not right here.",
             "RETURN" => 'Please fix the following errors, then <a href="{{url}}">reload</a>.'
         ],
@@ -39,11 +39,11 @@ return [
 
         "ENCOUNTERED" => "Uhhh...something happened.  We don't know what.",
 
-        "MAIL" => "Fatal error attempting mail, contact your server administrator.  If you are the admin, please check the UserFrosting log.",
+        "MAIL" => "Fatal error attempting mail, contact your server administrator.  If you are the admin, please check the MoF log.",
         
         "RETURN" => 'Click <a href="{{url}}">here</a> to return to the front page.',
 
-        "SERVER" => "Oops, looks like our server might have goofed. If you're an admin, please check the PHP or UserFrosting logs.",
+        "SERVER" => "Oops, looks like our server might have goofed. If you're an admin, please check the PHP or MoF logs.",
 
         "TITLE" => "Disturbance in the Force"
     ]
